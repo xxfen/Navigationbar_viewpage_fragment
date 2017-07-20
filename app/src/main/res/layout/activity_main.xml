@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="xxf.com.navigationbar_viewpage_fragment.MainActivity">
+    <LinearLayout
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="你好"/>
+    </LinearLayout>
+    <xxf.com.navigationbar_viewpageframent.Frage_vpage_bottomnavigationbar_view
+       android:id="@+id/nvf"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></xxf.com.navigationbar_viewpageframent.Frage_vpage_bottomnavigationbar_view>
+
+</LinearLayout>

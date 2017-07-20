@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Navigationbar_viewpage_fragment.iml" filepath="$PROJECT_DIR$/Navigationbar_viewpage_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationbar_viewpageframent/navigationbar_viewpageframent.iml" filepath="$PROJECT_DIR$/navigationbar_viewpageframent/navigationbar_viewpageframent.iml" />
+    </modules>
+  </component>
+</project>
