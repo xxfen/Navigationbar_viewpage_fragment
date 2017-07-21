@@ -1,6 +1,8 @@
 # Navigationbar_viewpage_fragment
 底部导航栏+viewpage+fragment快速实现
 
+模仿微信主界面
+ 
 添加：
 
      allprojects {
